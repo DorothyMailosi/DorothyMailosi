@@ -1,4 +1,4 @@
-Data Engineer | Research Systems Developer | OMOP CDM Enthusiast
+👩🏽‍💻Data Engineer | Research Systems Developer | OMOP CDM Enthusiast
 
 I build structured data systems for complex research environments.
 
