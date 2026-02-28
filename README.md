@@ -54,3 +54,7 @@ Passionate about building secure, standardized, and interoperable data systems t
 
 [My CV](https://drive.google.com/drive/folders/1FTW2LrstHvI_pDolX3-dAMbEhYB9fdWo)
 
+[Email](dorothy@codata.org)
+
+
+
