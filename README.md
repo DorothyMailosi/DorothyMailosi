@@ -51,3 +51,6 @@ African population research systems
 ---
 
 Passionate about building secure, standardized, and interoperable data systems that enable meaningful research and evidence-based decision-making.
+
+[My CV](https://drive.google.com/drive/folders/1FTW2LrstHvI_pDolX3-dAMbEhYB9fdWo)
+
