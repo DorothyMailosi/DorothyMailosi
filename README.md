@@ -1,16 +1,14 @@
-## Hi there 👋
+Data Engineer | Research Systems Developer | OMOP CDM Enthusiast
 
-<!--
-**DorothyMailosi/DorothyMailosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build structured data systems for complex research environments.
 
-Here are some ideas to get you started:
+With 3+ years of experience in database engineering and analytics, I specialize in:
+- Designing normalized PostgreSQL schemas 
+- Developing automated ETL pipelines
+- Implementing DDI-compliant metadata frameworks
+- Standardizing datasets to OMOP CDM
+- Deploying dashboards and databases on AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At INSPIRE (CODATA & APHRC), I architected a secure staging database supporting multi-wave African mental health studies and built pipelines transforming raw survey instruments into standardized research-ready datasets.
+
+Passionate about reproducible research infrastructure and scalable health data ecosystems.
